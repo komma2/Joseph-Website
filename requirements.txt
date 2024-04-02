@@ -1,0 +1,7 @@
+tensorflow
+streamlit
+transformers
+torch
+pillow
+zipfile36
+
