@@ -104,7 +104,7 @@ def home() : st.markdown(open('text.txt').read())
 
 
 usernames = {
-    'Joseph' : 'Joseph'
+    'Ayush' : 'Joseph'
 }
 
 
