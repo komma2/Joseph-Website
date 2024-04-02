@@ -4,7 +4,6 @@ import zipfile
 
 from tensorflow.keras.models import load_model
 
-
 from helper import get_label
 from transformers import DetrImageProcessor, DetrForObjectDetection
 
@@ -104,7 +103,7 @@ def home() : st.markdown(open('text.txt').read())
 
 
 usernames = {
-    'Ayush' : 'Joseph'
+    'Joseph' : 'Joseph'
 }
 
 
