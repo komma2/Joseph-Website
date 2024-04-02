@@ -14,7 +14,7 @@ import smtplib, ssl
 smtp_server = "smtp-relay.brevo.com"
 port = 587  # For starttls
 sender_email = "kenliz1738@gmail.com"
-password = os.environ["mail_pass"] 
+password = os.environ[""] 
 sender_password = password
 subject = "Foot  and  Mouth Disease  Alert"
 import smtplib
